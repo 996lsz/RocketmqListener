@@ -6,5 +6,8 @@
 官方spring接入文档https://github.com/AliwareMQ/mq-demo/blob/master/springboot/java-springboot-demo/src/main/java/com/aliyun/openservices/springboot/example/normal/ConsumerClient.java
 
 
+
 自定义组件使用方法
-![K(J3RGI`SG0TXIW 4P4}K0M](https://github.com/996lsz/RocketmqListener/assets/49548423/8c570b19-7a9e-4728-8111-aca446e75062)
+![图片](https://github.com/996lsz/RocketmqListener/assets/49548423/f86c04b6-ab66-4fb1-9c57-277fa72e1d1d)
+![DS}(VZB$~ID}J{UPEB1%_16](https://github.com/996lsz/RocketmqListener/assets/49548423/e109a18d-a110-49e5-b2f2-f8081c183334)
+
