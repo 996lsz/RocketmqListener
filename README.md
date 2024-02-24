@@ -1,0 +1,2 @@
+# RocketmqListener
+阿里云Rocketmq商业化sdk组件，类似社区版的@RocketMQMessageListener
