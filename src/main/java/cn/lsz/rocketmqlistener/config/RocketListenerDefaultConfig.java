@@ -12,6 +12,7 @@ import java.util.Properties;
 
 /**
  * 阿里云RocketMq配置
+ * 其它属性自行补充
  * @author LSZ
  */
 @Configuration
